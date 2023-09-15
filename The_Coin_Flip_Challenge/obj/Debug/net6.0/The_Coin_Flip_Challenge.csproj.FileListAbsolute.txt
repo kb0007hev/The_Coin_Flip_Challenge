@@ -1,0 +1,14 @@
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\bin\Debug\net6.0\The_Coin_Flip_Challenge.exe
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\bin\Debug\net6.0\The_Coin_Flip_Challenge.deps.json
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\bin\Debug\net6.0\The_Coin_Flip_Challenge.runtimeconfig.json
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\bin\Debug\net6.0\The_Coin_Flip_Challenge.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\bin\Debug\net6.0\The_Coin_Flip_Challenge.pdb
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.AssemblyInfoInputs.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.AssemblyInfo.cs
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\refint\The_Coin_Flip_Challenge.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.pdb
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\The_Coin_Flip_Challenge.genruntimeconfig.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\The_Coin_Flip_Challenge\The_Coin_Flip_Challenge\obj\Debug\net6.0\ref\The_Coin_Flip_Challenge.dll
